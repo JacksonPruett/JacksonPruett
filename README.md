@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jacksonpruett" alt="jacksonpruett" /></a> </p>
 
-- 🔭 I’m currently working on [my portfolio](https://github.com/JacksonPruett/Portfolio)
+- 🔭 I’m currently working on [my portfolio](https://github.com/JacksonPruett/new-portfolio-2024)
 
 - 🌱 I’m currently learning **Ruby On Rails, React, and Reactstrap**
 
