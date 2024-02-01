@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [my portfolio](https://github.com/JacksonPruett/new-portfolio-2024)
 
-- 🌱 I’m currently learning **Ruby On Rails, React, and Reactstrap**
+- 🌱 I’m currently learning **Ruby On Rails and Tailwind CSS**
 
 - 👯 I’m looking to collaborate on **on front-end and full-stack apps**
 
