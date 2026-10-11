@@ -5,11 +5,9 @@
 
 - 🌱 I’m currently learning **Active Directory**
 
-- 👨‍💻 All of my projects are available at [Portfolio In Progress](Portfolio In Progress)
+- 👨‍💻 All of my projects are available at [Portfolio](https://jacksonpruett.carrd.co/)
 
 - 💬 Ask me about **My unorthodox and diverse background**
-
-- 📫 How to reach me **Jacksonc.pruett@gmail.com**
 
 - 📄 Know about my experiences [https://shorturl.at/86Dfn](https://shorturl.at/86Dfn)
 
